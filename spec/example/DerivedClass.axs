@@ -1,5 +1,3 @@
-// vim: syntax=java
-
 +include BaseClass
 +include IFace
 
