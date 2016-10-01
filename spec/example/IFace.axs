@@ -1,0 +1,4 @@
+interface IFace {
+	IMember,
+	IMethod () {}
+}
