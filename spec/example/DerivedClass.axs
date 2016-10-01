@@ -1,7 +1,10 @@
+/**
+ * Package DerivedClass
+ * vim: syntax=java
+ */
+
 +include BaseClass
 +include IFace
-
-+use namespace Utilities
 
 class DerivedClass extends BaseClass implements IFace {
 	public message = "Hello";

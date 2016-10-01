@@ -1,4 +1,7 @@
-namespace Utilities
+/**
+ * Package BaseClass
+ * vim: syntax=java
+ */
 
 class BaseClass {
 	private message;
